@@ -6,6 +6,23 @@ They are listed here in the hope that things may change in the future
 so they may be re-included.
 
 
+## g2g.com
+
+As of 2022-10-03, all non existing usernames are reported as available.
+
+
+```
+  "G2G": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.g2g.com/{}",
+    "url": "https://www.g2g.com/{}",
+    "urlMain": "https://www.g2g.com/",
+    "username_claimed": "user",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+```
+
+
 ## gpodder.net
 
 As of 2020-05-25, all usernames are reported as available.
